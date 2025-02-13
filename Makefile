@@ -7,5 +7,5 @@ TARGET = test
 
 .PHONY: clean
 clean:
-	rm -rf $(TARGET) $(TARGET).dSYM
+	rm -rf $(TARGET) $(TARGET).dSYM 
 
